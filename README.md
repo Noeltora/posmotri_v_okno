@@ -1,1 +1,1 @@
-https://github.com/Noeltora/second-project.git
+https://github.com/Noeltora/posmotri_v_okno.git
